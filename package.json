@@ -1,0 +1,36 @@
+{
+  "name": "lucifero-io",
+  "version": "1.0.0",
+  "description": "lucifero-io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawan224/lucifero-io.git"
+  },
+  "keywords": [
+    "lucifero-io",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "chuclocbg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nawan224/lucifero-io/issues"
+  },
+  "homepage": "https://github.com/nawan224/lucifero-io#readme",
+  "dependencies": {
+    "abigail-io": "^1.0.0",
+    "excel-utils-phuongdh": "^1.0.1",
+    "file-operations-dhp": "^1.0.2",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "taiko-gas-convert-main": "^1.0.0",
+    "ttk_library": "^1.2.1",
+    "web3": "^1.5.2"
+  }
+}
